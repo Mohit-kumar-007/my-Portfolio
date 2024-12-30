@@ -50,39 +50,39 @@ export const DATA = {
     },
   ],
   contact: {
-    email: "hrithikroy1854@gmail.com",
-    tel: "+91 9749727619",
+    email: "sciencerocks8950@gmail.com",
+    tel: "+91 8950968021",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/DevHrithik",
+        url: "https://github.com/Mohit-kumar-007",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://linkedin.com/in/devhrithik",
+        url: "https://linkedin.com/in/mohitkumar007",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://x.com/Hrithikstwts",
+        url: "https://x.com/MohitKu77945356",
         icon: Icons.x,
 
         navbar: true,
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
+        url: "https://www.youtube.com/@Technicaltalks-007",
         icon: Icons.youtube,
         navbar: false,
       },
       email: {
         name: "Send Email",
-        url: "mailto:hrithikroy1854@gmail.com",
+        url: "mailto:sciencerocks8950gmail.com",
         icon: Icons.email,
 
         navbar: true,
@@ -126,12 +126,12 @@ export const DATA = {
       end: "2024",
     },
     {
-      school: "Jadvapur University, India",
-      href: "https://jadavpuruniversity.in/",
+      school: "Vivekananda global university, India",
+      href: "https://vgu.ac.in",
       degree: "Bachelor's Degree of Engineering",
       logoUrl: "/jadavpur.png",
-      start: "2022",
-      end: "2026",
+      start: "2023",
+      end: "2027",
     },
   ],
   projects: [
